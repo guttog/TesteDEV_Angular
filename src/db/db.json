@@ -1,0 +1,28 @@
+{
+  "musicas": [
+    {
+      "id": "1",
+      "artista": "Iron Maiden",
+      "titulo": "Fear of the Dark",
+      "genero": "Rock",
+      "ano": 1992,
+      "album": "Fear of the Dark"
+    },
+    {
+      "id": "2",
+      "titulo": "Whole Lotta Love",
+      "artista": "Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "ano": "1969",
+      "genero": "Hard Rock"
+    },
+    {
+      "id": "3",
+      "artista": "Guns N' Roses",
+      "titulo": "Welcome to the Jungle",
+      "genero": "Hard Rock",
+      "ano": "1987",
+      "album": "Appetite for Destruction"
+    }
+  ]
+}
